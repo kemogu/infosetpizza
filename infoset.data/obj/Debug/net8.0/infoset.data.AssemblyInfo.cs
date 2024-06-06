@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("infoset.data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12592bb11c71add64526c271eb97dbf180e5413d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("infoset.data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("infoset.data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
