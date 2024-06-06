@@ -15,3 +15,4 @@ C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\refint\infoset
 C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\infoset.data.pdb
 C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\infoset.data.genruntimeconfig.cache
 C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\ref\infoset.data.dll
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\infoset.data.sourcelink.json
