@@ -11,7 +11,8 @@
           "Microsoft.EntityFrameworkCore": "8.0.4",
           "Microsoft.EntityFrameworkCore.Design": "8.0.4",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.4",
-          "infoset.entity": "1.0.0"
+          "infoset.entity": "1.0.0",
+          "infoset.helpers": "1.0.0"
         },
         "runtime": {
           "infoset.data.dll": {}
@@ -699,6 +700,11 @@
         "runtime": {
           "infoset.entity.dll": {}
         }
+      },
+      "infoset.helpers/1.0.0": {
+        "runtime": {
+          "infoset.helpers.dll": {}
+        }
       }
     }
   },
@@ -1031,6 +1037,11 @@
       "hashPath": "system.threading.channels.6.0.0.nupkg.sha512"
     },
     "infoset.entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "infoset.helpers/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

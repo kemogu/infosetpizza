@@ -16,10 +16,12 @@ namespace infoset.data.Concrete
         }
         public IQueryable<RestaurantBranch> GetNearstRestaurantBranches(double latitude, double longitude, double maxDistance, int takeNumber)
         {
-            return _dbSet.Where(rb => DistanceHelper.CalculateDistance(latitude, longitude, rb.Latitude, rb.Longitude) <= maxDistance)
-            .OrderBy(rb => DistanceHelper.CalculateDistance(latitude, longitude, rb.Latitude, rb.Longitude))
-            .Take(takeNumber)
-            .ToList();
+            return _dbSet
+                .AsEnumerable() 
+                .Where(rb => DistanceHelper.CalculateDistance(latitude, longitude, rb.Latitude, rb.Longitude) <= maxDistance)
+                .OrderBy(rb => DistanceHelper.CalculateDistance(latitude, longitude, rb.Latitude, rb.Longitude))
+                .Take(takeNumber)
+                .AsQueryable(); 
         }
     }
 }

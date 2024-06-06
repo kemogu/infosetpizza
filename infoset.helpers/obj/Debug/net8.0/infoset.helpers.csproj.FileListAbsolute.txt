@@ -1,0 +1,12 @@
+C:\Users\Kemal\Desktop\infoset\task\infoset.helpers\bin\Debug\net8.0\infoset.helpers.deps.json
+C:\Users\Kemal\Desktop\infoset\task\infoset.helpers\bin\Debug\net8.0\infoset.helpers.dll
+C:\Users\Kemal\Desktop\infoset\task\infoset.helpers\bin\Debug\net8.0\infoset.helpers.pdb
+C:\Users\Kemal\Desktop\infoset\task\infoset.helpers\obj\Debug\net8.0\infoset.helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kemal\Desktop\infoset\task\infoset.helpers\obj\Debug\net8.0\infoset.helpers.AssemblyInfoInputs.cache
+C:\Users\Kemal\Desktop\infoset\task\infoset.helpers\obj\Debug\net8.0\infoset.helpers.AssemblyInfo.cs
+C:\Users\Kemal\Desktop\infoset\task\infoset.helpers\obj\Debug\net8.0\infoset.helpers.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\Desktop\infoset\task\infoset.helpers\obj\Debug\net8.0\infoset.helpers.sourcelink.json
+C:\Users\Kemal\Desktop\infoset\task\infoset.helpers\obj\Debug\net8.0\infoset.helpers.dll
+C:\Users\Kemal\Desktop\infoset\task\infoset.helpers\obj\Debug\net8.0\refint\infoset.helpers.dll
+C:\Users\Kemal\Desktop\infoset\task\infoset.helpers\obj\Debug\net8.0\infoset.helpers.pdb
+C:\Users\Kemal\Desktop\infoset\task\infoset.helpers\obj\Debug\net8.0\ref\infoset.helpers.dll

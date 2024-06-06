@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("infoset.entity")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("infoset.helpers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12592bb11c71add64526c271eb97dbf180e5413d")]
-[assembly: System.Reflection.AssemblyProductAttribute("infoset.entity")]
-[assembly: System.Reflection.AssemblyTitleAttribute("infoset.entity")]
+[assembly: System.Reflection.AssemblyProductAttribute("infoset.helpers")]
+[assembly: System.Reflection.AssemblyTitleAttribute("infoset.helpers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

@@ -5,8 +5,8 @@ C:\Users\Kemal\Desktop\infoset\task\infoset.entity\obj\Debug\net8.0\infoset.enti
 C:\Users\Kemal\Desktop\infoset\task\infoset.entity\obj\Debug\net8.0\infoset.entity.AssemblyInfoInputs.cache
 C:\Users\Kemal\Desktop\infoset\task\infoset.entity\obj\Debug\net8.0\infoset.entity.AssemblyInfo.cs
 C:\Users\Kemal\Desktop\infoset\task\infoset.entity\obj\Debug\net8.0\infoset.entity.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\Desktop\infoset\task\infoset.entity\obj\Debug\net8.0\infoset.entity.sourcelink.json
 C:\Users\Kemal\Desktop\infoset\task\infoset.entity\obj\Debug\net8.0\infoset.entity.dll
 C:\Users\Kemal\Desktop\infoset\task\infoset.entity\obj\Debug\net8.0\refint\infoset.entity.dll
 C:\Users\Kemal\Desktop\infoset\task\infoset.entity\obj\Debug\net8.0\infoset.entity.pdb
 C:\Users\Kemal\Desktop\infoset\task\infoset.entity\obj\Debug\net8.0\ref\infoset.entity.dll
-C:\Users\Kemal\Desktop\infoset\task\infoset.entity\obj\Debug\net8.0\infoset.entity.sourcelink.json
