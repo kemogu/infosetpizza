@@ -1,0 +1,17 @@
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\bin\Debug\net8.0\infoset.data.deps.json
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\bin\Debug\net8.0\infoset.data.runtimeconfig.json
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\bin\Debug\net8.0\infoset.data.dll
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\bin\Debug\net8.0\infoset.data.pdb
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\bin\Debug\net8.0\infoset.entity.dll
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\bin\Debug\net8.0\infoset.entity.pdb
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\infoset.data.csproj.AssemblyReference.cache
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\infoset.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\infoset.data.AssemblyInfoInputs.cache
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\infoset.data.AssemblyInfo.cs
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\infoset.data.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\infoset.data.csproj.CopyComplete
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\infoset.data.dll
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\refint\infoset.data.dll
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\infoset.data.pdb
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\infoset.data.genruntimeconfig.cache
+C:\Users\Kemal\Desktop\infoset\task\infoset.data\obj\Debug\net8.0\ref\infoset.data.dll
