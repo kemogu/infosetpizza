@@ -595,7 +595,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.4",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.4",
-          "infoset.entity": "1.0.0"
+          "infoset.entity": "1.0.0",
+          "infoset.helpers": "1.0.0"
         },
         "compile": {
           "bin/placeholder/infoset.data.dll": {}
@@ -612,6 +613,16 @@
         },
         "runtime": {
           "bin/placeholder/infoset.entity.dll": {}
+        }
+      },
+      "infoset.helpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/infoset.helpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/infoset.helpers.dll": {}
         }
       }
     }
@@ -1660,6 +1671,11 @@
       "type": "project",
       "path": "../infoset.entity/infoset.entity.csproj",
       "msbuildProject": "../infoset.entity/infoset.entity.csproj"
+    },
+    "infoset.helpers/1.0.0": {
+      "type": "project",
+      "path": "../infoset.helpers/infoset.helpers.csproj",
+      "msbuildProject": "../infoset.helpers/infoset.helpers.csproj"
     }
   },
   "projectFileDependencyGroups": {
